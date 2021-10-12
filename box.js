@@ -13,7 +13,7 @@ class Box
       rect(this.x,this.y,this.w,this.h)
     }
     
-    //escribir la función para establecer width (ancho) de box (caja)
+    //escribir la función para establecer ancho de box (caja)
 
   }
 
